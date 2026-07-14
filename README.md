@@ -1,4 +1,4 @@
-## LifePlus 智享生活平台         
+## 🚀LifePlus 智享生活平台         
 ### 技术栈
 SpringBoot、Caffeine、Redis、MySQL、OpenResty、MyBatis、Lua、LangChain4j等
 
